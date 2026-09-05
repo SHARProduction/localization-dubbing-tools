@@ -1,0 +1,28 @@
+{
+  "requiredLocales": [
+    "en",
+    "ru"
+  ],
+  "requiredTypes": [
+    "master",
+    "captions"
+  ],
+  "assets": [
+    {
+      "locale": "en",
+      "type": "master"
+    },
+    {
+      "locale": "en",
+      "type": "captions"
+    },
+    {
+      "locale": "ru",
+      "type": "master"
+    },
+    {
+      "locale": "ru",
+      "type": "captions"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "localization-dubbing-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w09-171",
+      "slug": "asset-localization-coverage-matrix",
+      "title": "Asset Localization Coverage Matrix",
+      "title_ru": "Матрица покрытия локализации материалов",
+      "family": "localization_dubbing",
+      "purpose": "Checks required locale and asset-type combinations.",
+      "purpose_ru": "Проверяет обязательные сочетания локали и типа материала.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w09-172",
+      "slug": "dubbing-script-timing-checker",
+      "title": "Dubbing Script Timing Checker",
+      "title_ru": "Проверка тайминга дубляжа",
+      "family": "localization_dubbing",
+      "purpose": "Compares dubbed line duration with available dialogue windows.",
+      "purpose_ru": "Сравнивает длительность дубляжа с доступными окнами реплик.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}
